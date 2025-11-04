@@ -2,7 +2,7 @@
 <html lang="pt-br">
 <head>
     <meta charset="UTF-8">
-    <title>Paz através da Arte - 9ºm2 Ano</title>
+    <title> Arte como expressão da Paz - 9ºm2 Ano</title>
     <style>
         body {
             background: #e3f9e5;
