@@ -57,7 +57,7 @@
 </head>
 <body>
     <div class="caixa">
-        <h1>Paz através da Arte</h1>
+        <h1>Arte como expressão da Paz</h1>
         <div class="alunos"><strong>Site criado pelos alunos do 9ºm2</strong></div>
         <p>
             A arte é uma forma de espalhar paz e felicidade.<br>
