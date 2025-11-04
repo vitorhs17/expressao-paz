@@ -70,7 +70,8 @@
             <div class="arte" title="Pintura">🖼️</div>
         </div>
     </div>
-	<footer>Trabalho escolar do 9º ano - Expressando paz com arte! (2025)</footer>
+	<footer>trabalho escolar do 9º ano.
+a arte como expressão da paz - 2025.</footer>
 	<footer>Ana Luisa</footer>
 	<footer>Gustavo Vioti</footer>
 	<footer>Guilherme Martins</footer>
