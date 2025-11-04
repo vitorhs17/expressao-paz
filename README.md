@@ -1,5 +1,4 @@
-<!DOCTYPE html>
-<html lang="pt-br">
+
 <head>
     <meta charset="UTF-8">
     <title> Arte como expressão da Paz - 9ºm2 Ano</title>
